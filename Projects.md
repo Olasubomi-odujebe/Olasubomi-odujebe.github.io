@@ -1,0 +1,20 @@
+---
+layout: page
+title: Projects
+permalink: /projects/
+---
+
+## Projects Overview
+
+Here you'll find a selection of projects that showcase my skills in data analysis, financial econometrics, and regulatory impacts on financial systems.
+
+### 1. Macroeconomic Sustainability and Economic Growth in Nigeria: An Empirical Analysis
+**Summary**: This project analyzes the impact of macroeconomic variables like inflation, interest rates, and exchange rates on Nigeria's economic growth. Employing statistical methods and econometric models, the study provides insights into the sustainable economic practices needed for growth.
+- **Technologies Used**: R, Python, Econometric Modeling
+- [Read more about this project](https://[your-username].github.io/macroeco-nigeria)
+
+### 2. Banking Regulations and Loan Performance of Deposit Money Banks in Nigeria
+**Summary**: This literature review explores the effects of financial regulation on the performance and stability of banks in Nigeria. Through a detailed analysis of various regulations, the paper discusses how different supervisory practices influence bank performance.
+- **Technologies Used**: Literature Review, Analytical Framework
+- [Read more about this project](https://[your-username].github.io/banking-regulations-nigeria)
+
