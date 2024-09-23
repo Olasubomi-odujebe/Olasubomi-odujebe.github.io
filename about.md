@@ -23,3 +23,6 @@ I am passionately driven by the power of data to transform businesses and the br
 
 Outside the professional realm,I am a Fashion designer and I engage actively in community service, contributing my time to the Peterborough Public Library and participating in local events planning. These experiences enrich my understanding of community dynamics and the importance of civic engagement.
 
+For a detailed look at my professional experience, check out my [Resume](https://Olasubomi-odujebe.github.io/resume/). 
+
+Explore some of my projects [here](https://Olasubomi-odujebe.github.io/projects/) to see the applications of my skills and expertise.
