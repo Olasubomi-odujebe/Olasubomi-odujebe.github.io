@@ -5,7 +5,6 @@ permalink: /about/
 ---
 
 ## About Me
-### Olasubomi Precious Odujebe
 
 **Location:** Peterborough, ON  
 **Email:** [olasubomiodujebe16@gmail.com](mailto:olasubomiodujebe16@gmail.com)  
