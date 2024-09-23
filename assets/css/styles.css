@@ -1,17 +1,42 @@
 body {
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    background-color: #f8f9fa;
+    background-color: #f4f4f8;  /* Lighter shade for background */
     color: #333;
     line-height: 1.6;
-    padding: 20px;
+    padding: 0;  /* Adjusted for overall layout consistency */
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+    margin: 0;
+}
+
+header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px 20px;
+    background-color: #5d3f92;  /* Dark purple for header */
+}
+
+.site-nav {
+    margin: 0;
+    padding: 0;
+    display: flex;
+}
+
+.site-nav a {
+    text-decoration: none;
+    color: #fff;  /* White text for contrast */
+    margin-left: 20px;
+}
+
+.site-nav a:hover {
+    text-decoration: underline;
+    color: #cca4e3;  /* Lighter purple for hover effects */
 }
 
 h1, h2, h3 {
-    color: #007bff;
-}
-
-a {
-    color: #007bff;
+    color: #7c4d99;  /* Soft purple for headings */
 }
 
 img {
