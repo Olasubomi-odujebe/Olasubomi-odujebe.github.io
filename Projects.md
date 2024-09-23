@@ -16,5 +16,5 @@ Here you'll find a selection of projects that showcase my skills in data analysi
 ### 2. Banking Regulations and Loan Performance of Deposit Money Banks in Nigeria
 **Summary**: This literature review explores the effects of financial regulation on the performance and stability of banks in Nigeria. Through a detailed analysis of various regulations, the paper discusses how different supervisory practices influence bank performance.
 - **Technologies Used**: Literature Review, Analytical Framework
-- [Read more about this project](https://[your-username].github.io/banking-regulations-nigeria)
+- [Read more about this project](/assets/documets/Literature%20%20Review%20.pdf)
 
