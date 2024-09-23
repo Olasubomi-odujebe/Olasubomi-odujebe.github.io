@@ -4,7 +4,8 @@ title: Home
 permalink: /
 ---
 
-![Olasubomi Precious Odujebe](https://github.com/[your-username]/[your-repo]/raw/main/your-picture.jpg)  
+<img src="/assets/images/IMG_5243.jpg" alt="Olasubomi Precious Odujebe" style="width: 150px; height: 150px; border-radius: 50%;">
+ 
 *Olasubomi Precious Odujebe*
 
 ## Welcome to My Portfolio
