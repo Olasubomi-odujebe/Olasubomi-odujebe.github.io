@@ -1,3 +1,9 @@
+---
+layout: page
+title: Resume
+permalink: /resume/
+---
+
 ## Olasubomi Precious Odujebe  
 Email: [olasubomiodujebe16@gmail.com](mailto:olasubomiodujebe16@gmail.com)  
 Phone: +1 (416) 830-5709  
