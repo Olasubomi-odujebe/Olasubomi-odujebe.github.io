@@ -5,7 +5,7 @@ permalink: /
 ---
 
 
-<img src="/assets/images/IMG_5243.jpg" alt="Olasubomi Precious Odujebe" style="width: 300px; height: 300px; border-radius: 100%;">
+<img src="/assets/images/IMG_5243.jpg" alt="Olasubomi Precious Odujebe" style="width: 400px; height: 400px; border-radius: 100%;">
  
 
 ## Welcome to My Portfolio
