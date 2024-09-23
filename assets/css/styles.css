@@ -15,7 +15,7 @@ header {
     justify-content: space-between;
     align-items: center;
     padding: 10px 20px;
-    background-color: #5d3f92;  /* Dark purple for header */
+    background-color: #800080;  /* Dark purple for header */
 }
 
 .site-nav {
@@ -52,3 +52,4 @@ img {
     margin: auto;
     max-width: 960px;
 }
+
