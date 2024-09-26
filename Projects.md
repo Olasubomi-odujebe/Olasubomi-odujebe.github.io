@@ -11,7 +11,7 @@ Here you'll find a selection of projects that showcase my skills in data analysi
 ### 1. Canada's Economic Indicators
 Summary: This analysis examines Canada's key economic indicators from 2003 to 2023, analyzing trends in GDP growth, inflation, unemployment, and exchange rates.
 Analytical Tool Used: R markdown, Excel
-- [View the Canada's Economic Indicators Analysis](https://github.com/Olasubomi-odujebe/Olasubomi-odujebe.github.io/blob/main/assets/data%20visualizationl/My-project.html)
+- [View the Canada's Economic Indicators Analysis](/data-visualization.html/My-project.html)
 
 
 ### 2. Macroeconomic Sustainability and Economic Growth in Nigeria: An Empirical Analysis
