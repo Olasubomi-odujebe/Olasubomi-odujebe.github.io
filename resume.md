@@ -44,17 +44,17 @@ Data-oriented finance analyst with comprehensive experience in financial reporti
 ### Education
 
 **Master of Big Data Financial Analytics**  
-Trent University, January 2024 – Present, Peterborough, Canada  
+*Trent University*, January 2024 – Present | Peterborough, Canada  
 
 **Bachelor of Banking and Finance**  
-Babcock University, September 2018 – June 2022, Ogun, Nigeria  
+*Babcock University*, September 2018 – June 2022 | Ogun, Nigeria  
 
 ### Certifications
-- Environmental Social Governance (ESG), *Bloomberg*, 2024
-- First Aid & CPR + AED, Cnada CPR,  2024
-- Introduction to Data Analytics, Simplilearn, 2023
-- Microsoft Office Word, Excel 2016 . EC-Council Customer Relationship Management . Project Management, New Horizons, 2022
-- Jobberman Soft Skills Training, 2022
+- Environmental Social Governance (ESG). *Bloomberg*, 2024
+- First Aid & CPR + AED. *Cnada CPR*,  2024
+- Introduction to Data Analytics. *Simplilearn*, 2023
+- Microsoft Office Word, Excel 2016 . EC-Council Customer Relationship Management . Project Management. *New Horizons*, 2022
+- Jobberman Soft Skills Training. *Jobberman*, 2022
 
 ### Volunteer Experience
 
