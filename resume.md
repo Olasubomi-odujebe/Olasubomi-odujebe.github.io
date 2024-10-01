@@ -50,7 +50,7 @@ Trent University, January 2024 – Present, Peterborough, Canada
 Babcock University, September 2018 – June 2022, Ogun, Nigeria  
 
 ### Certifications
-- Environmental Social Governance (ESG), Bloomberg, 2024
+- Environmental Social Governance (ESG), *Bloomberg*, 2024
 - First Aid & CPR + AED, Cnada CPR,  2024
 - Introduction to Data Analytics, Simplilearn, 2023
 - Microsoft Office Word, Excel 2016 . EC-Council Customer Relationship Management . Project Management, New Horizons, 2022
