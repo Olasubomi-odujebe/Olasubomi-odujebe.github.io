@@ -66,8 +66,5 @@ March 2024 – Present
 May 2024  
 - Participated in planning and executing the 50/50/50 event.
 
-### Professional Membership
-- Chartered Institute of Bankers of Nigeria (CIBN) – In view, expected completion 2025
-
 ### References
 Available on request.
